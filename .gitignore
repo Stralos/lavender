@@ -1,4 +1,4 @@
-*
+/*
 !.gitignore
 !.npmrc
 !LICENSE
@@ -6,5 +6,8 @@
 !README.md
 !pnpm-lock.yaml
 !.prettierrc
-!.husky
 !src
+!.husky
+!tsconfig.json
+!webpack.config.ts
+!jest.config.ts
