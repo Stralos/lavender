@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "strict": true,
     "baseUrl": "src",
     "sourceMap": true,
     "noImplicitAny": true,

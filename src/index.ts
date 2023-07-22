@@ -1,5 +1,6 @@
-export * from "./clamp/clamp";
-export * from "./chunk/chunk";
-export * from "./inRange/inRange";
-export * from "./uniqBy/uniqBy";
-export * from "./inRange/inRange";
+export { clamp } from './clamp/clamp'
+export { chunk } from './chunk/chunk'
+export { inRange } from './inRange/inRange'
+export { uniqBy } from './uniqBy/uniqBy'
+export { groupBy } from './groupBy/groupBy'
+export { debounce } from './debounce/debounce'

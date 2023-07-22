@@ -11,3 +11,4 @@
 !tsconfig.json
 !webpack.config.ts
 !jest.config.ts
+!.eslintrc
