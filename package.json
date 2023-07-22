@@ -1,0 +1,19 @@
+{
+  "name": "@hack-solutions/lavender",
+  "version": "0.0.1",
+  "description": "typescript unility package",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stralos/lavender.git"
+  },
+  "author": "Stralos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stralos/lavender/issues"
+  },
+  "homepage": "https://github.com/Stralos/lavender#readme"
+}
