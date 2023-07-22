@@ -1,0 +1,10 @@
+*
+!.gitignore
+!.npmrc
+!LICENSE
+!package.json
+!README.md
+!pnpm-lock.yaml
+!.prettierrc
+!.husky
+!src
